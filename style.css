@@ -20,6 +20,12 @@ table{
 	border-collapse: collapse;
 }	
 
+a{
+	text-decoration: none;
+}
+
+#contain
+
 /* change the font family and spacing as per your project font */
 .footer{
     display:flex;
