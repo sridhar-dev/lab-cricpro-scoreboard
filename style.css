@@ -12,12 +12,13 @@ th{
 	background-color: orangered;
 }
 tr{
-	background-color: whitesmoke;
+	
 }
 table{
 	width: 60rem;
 	height: 20rem;
 	border-collapse: collapse;
+	border-bottom: grey;
 }	
 
 a{
