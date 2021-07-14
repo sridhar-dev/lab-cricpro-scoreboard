@@ -1,24 +1,25 @@
-/* Type your code here */
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
 
 *{
 	font-family: 'Noto Sans JP', sans-serif;
 }
+
 h1{
 	line-height: 1px ;
 	font-weight: 900px;
 }
+
 th{
 	background-color: orangered;
 }
-tr{
-	
-}
+
 table{
 	width: 60rem;
 	height: 20rem;
 	border-collapse: collapse;
+	background-color: white;
 	border-color: grey;
+	box-shadow: -3px 3px 3px 0px lightgray;
 }	
 
 a{
